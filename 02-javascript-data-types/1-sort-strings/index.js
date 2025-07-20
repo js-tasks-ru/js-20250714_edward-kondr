@@ -17,5 +17,3 @@ export function sortStrings(arr, param = "asc") {
     );
   }
 }
-
-sortStrings(["b", "C", "a"]);
